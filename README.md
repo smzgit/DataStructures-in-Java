@@ -2,7 +2,7 @@
 Implementation of basic Data Structures in java using Object-oriented Programming paradigms
 
 Following DS has been coded :
-	1. Set(Hash, LinkedHash & Tree Set)
+	1. Set(Hash, LinkedHash & Tree Set) "\n"
 	2. SLL(Singly Linked List)
 	3. DLL(Doubly Linked List)
 	4. CLL(Circular Linked List)
